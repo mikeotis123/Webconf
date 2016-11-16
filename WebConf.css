@@ -1,0 +1,13 @@
+.jumbotron {
+    background: url('https://res.cloudinary.com/mikeotis/image/upload/t_media_lib_thumb/v1463149809/pdx_btivib.jpg');
+    background-size: cover;
+
+
+}
+.list-group{
+
+	width:100%;
+}
+#signup{
+	padding-left: 200px;
+}
